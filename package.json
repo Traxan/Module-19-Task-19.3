@@ -1,0 +1,13 @@
+{
+  "name": "19.3",
+  "version": "1.0.0",
+  "description": "\"Zadanie 19.3\"",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
